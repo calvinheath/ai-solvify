@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ai-solvify/static/js/main.a128227b.js",
+    "main.js": "/ai-solvify/static/js/main.c5c532e4.js",
     "index.html": "/ai-solvify/index.html",
-    "main.a128227b.js.map": "/ai-solvify/static/js/main.a128227b.js.map"
+    "main.c5c532e4.js.map": "/ai-solvify/static/js/main.c5c532e4.js.map"
   },
   "entrypoints": [
-    "static/js/main.a128227b.js"
+    "static/js/main.c5c532e4.js"
   ]
 }
